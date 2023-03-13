@@ -1,0 +1,15 @@
+{
+  "name": "random-website",
+  "version": "1.0.0",
+  "description": "Creates a random website for testing website crawlers against.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expressjs": "^1.0.1"
+  }
+}
